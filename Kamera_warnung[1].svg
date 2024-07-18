@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="21.6747mm" height="21.6747mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 194.56 194.56"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="538" font-variant="normal" class="str0" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+	<font-face 
+		font-family="Source Sans Pro">
+		<font-face-src>
+			<font-face-name name="Source Sans Pro"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="!" horiz-adv-x="288" d="M104.999 576l-1.99817 93.9983 82.9978 0 -1.99817 -93.9983 -11.0005 -378 -57.0006 0 -11.0005 378zm-19.9986 -525.999c0,19.3311 5.83397,34.8306 17.4977,46.4986 11.6679,11.6679 25.8368,17.5019 42.5022,17.5019 15.998,0 29.8331,-5.83397 41.501,-17.5019 11.6637,-11.6679 17.4977,-27.1675 17.4977,-46.4986 0,-18.0004 -5.83397,-32.8325 -17.4977,-44.5004 -11.6679,-11.6679 -25.503,-17.5019 -41.501,-17.5019 -16.6655,0 -30.8343,5.83397 -42.5022,17.5019 -11.6637,11.6679 -17.4977,26.5 -17.4977,44.5004z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Source Sans Pro";font-variant:normal;font-style:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .str0 {stroke-width:3.22;stroke-miterlimit:22.9256}
+    .str1 {stroke:#E51A4B;stroke-width:0.68;stroke-miterlimit:22.9256}
+    .fil1 {fill:#B2B3B3}
+    .fil0 {fill:#9D9E9E}
+    .fil2 {fill:#E51A4B}
+    .fnt0 {font-weight:normal;font-size:212.48px;font-family:'Source Sans Pro'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Ebene_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" x="-0" y="-0" width="194.56" height="194.56" rx="13.72" ry="14.27"/>
+  <g id="_1559478796000">
+   <polygon class="fil1" points="37.1,78.86 137.51,78.86 123.57,110.04 37.1,110.04 "/>
+   <polygon class="fil1" points="139.85,85.65 149.79,85.65 141.42,104.96 130.79,104.96 "/>
+   <polygon class="fil1" points="38.21,69.7 157.46,69.7 154.82,74.48 38.21,74.59 "/>
+   <polygon class="fil1" points="64.38,114.96 60.04,124.25 80.39,124.86 85.04,114.91 "/>
+  </g>
+  <g transform="matrix(0.961536 0 0 1 1109.81 437.328)">
+   <text x="-1083.74" y="-270.14"  class="fil2 str1 fnt0">!</text>
+  </g>
+ </g>
+</svg>

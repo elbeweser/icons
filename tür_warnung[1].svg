@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="21.6747mm" height="21.6747mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 194.56 194.56"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="538" font-variant="normal" class="str2" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+	<font-face 
+		font-family="Source Sans Pro">
+		<font-face-src>
+			<font-face-name name="Source Sans Pro"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="!" horiz-adv-x="288" d="M104.999 576l-1.99817 93.9983 82.9978 0 -1.99817 -93.9983 -11.0005 -378 -57.0006 0 -11.0005 378zm-19.9986 -525.999c0,19.3311 5.83397,34.8306 17.4977,46.4986 11.6679,11.6679 25.8368,17.5019 42.5022,17.5019 15.998,0 29.8331,-5.83397 41.501,-17.5019 11.6637,-11.6679 17.4977,-27.1675 17.4977,-46.4986 0,-18.0004 -5.83397,-32.8325 -17.4977,-44.5004 -11.6679,-11.6679 -25.503,-17.5019 -41.501,-17.5019 -16.6655,0 -30.8343,5.83397 -42.5022,17.5019 -11.6637,11.6679 -17.4977,26.5 -17.4977,44.5004z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Source Sans Pro";font-variant:normal;font-style:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .str2 {stroke-width:3.22;stroke-miterlimit:22.9256}
+    .str0 {stroke:#9D9E9E;stroke-width:4.75;stroke-miterlimit:22.9256}
+    .str1 {stroke:#9D9E9E;stroke-width:1.8;stroke-miterlimit:22.9256}
+    .str3 {stroke:#E51A4B;stroke-width:0.68;stroke-miterlimit:22.9256}
+    .fil0 {fill:#9D9E9E}
+    .fil2 {fill:#E51A4B}
+    .fil1 {fill:#B0B1B1}
+    .fnt0 {font-weight:normal;font-size:212.48px;font-family:'Source Sans Pro'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Ebene_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" x="-0" y="-0" width="194.56" height="194.56" rx="13.72" ry="14.27"/>
+  <rect class="fil1" x="69.07" y="35.89" width="70.13" height="123.28" rx="1.72" ry="5.43"/>
+  <rect class="fil0 str0" x="76.14" y="41.66" width="56.64" height="117.51" rx="0.75" ry="2.78"/>
+  <path class="fil1 str0" d="M90.19 27.34l41.24 14.32c0.54,0.19 1.03,0.63 1.03,1.4l0 114.72c0,0.76 -0.49,1.23 -1.03,1.39l-41.24 13.15c-0.53,0.17 -1.03,-0.63 -1.03,-1.39l0 -142.2c0,-0.77 0.49,-1.58 1.03,-1.39z"/>
+  <ellipse class="fil0 str1" cx="103.09" cy="100.26" rx="3" ry="3.12"/>
+  <g transform="matrix(0.961536 0 0 1 1109.81 -246.664)">
+   <text x="-1083.74" y="413.85"  class="fil2 str3 fnt0">!</text>
+  </g>
+ </g>
+</svg>
