@@ -1,0 +1,13 @@
+{
+  "name": "Elbeweser Icons",
+  "content_in_root": false,
+  "filename": "",
+  "domains": ["lovelace"],
+  "country": "US",
+  "zip_release": false,
+  "homeassistant": "2021.1.5",
+  "persistent_directory": "icons",
+  "iot_class": "Cloud Polling",
+  "render_readme": true,
+  "hide_default_branch": false
+}
